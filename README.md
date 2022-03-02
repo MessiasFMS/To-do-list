@@ -1,4 +1,5 @@
 # My first React.JS project
+<a href="https://todlistmessiasfms.netlify.app/">Live Demo</a>
 
 ## Technologies used:
 
@@ -9,6 +10,4 @@
 
 ## Screenshoot:
 <img src="/screenshots/demo.png" alt="Demo to-do-list printscreen"/>
-
-<a href="https://todlistmessiasfms.netlify.app/">Live Demo</a>
 
